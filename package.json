@@ -9,10 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "framer-motion": "^11.0.0",
-    "clsx": "^2.0.0",
+    "@google/generative-ai": "^0.24.1",
+    "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
-    "tailwind-merge": "^2.0.0",
-    "@radix-ui/react-slot": "^1.0.2"
+    "clsx": "^2.0.0",
+    "framer-motion": "^11.0.0",
+    "tailwind-merge": "^2.0.0"
   }
 }
